@@ -24,3 +24,8 @@ checkout items and make payments.\
  Use the `DAO` design pattern in `Java`.\
  **PostgreSQL** for database.
 
+![codecool-shop](https://github.com/Dana-Mst/Codecool-shop/blob/main/screenshots/cs01.png)
+![codecool-shop](https://github.com/Dana-Mst/Codecool-shop/blob/main/screenshots/cs12.png)
+![codecool-shop](https://github.com/Dana-Mst/Codecool-shop/blob/main/screenshots/cs02.png)
+![codecool-shop](https://github.com/Dana-Mst/Codecool-shop/blob/main/screenshots/cs04.png)
+![codecool-shop](https://github.com/Dana-Mst/Codecool-shop/blob/main/screenshots/cs08.png)
